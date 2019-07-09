@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e20db3-4b97-46bd-8e8b-915e5a4e19d5" name="Default" comment="checkin Loops">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries/motorbike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Ranges_Tuples/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Ranges_Tuples/iterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Ranges_Tuples/ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists_Ranges_Tuples/tuples.py" afterDir="false" />
+    <list default="true" id="66e20db3-4b97-46bd-8e8b-915e5a4e19d5" name="Default" comment="dictionaries">
+      <change afterPath="$PROJECT_DIR$/Dictionaries/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,6 +23,7 @@
     <SUITE FILE_PATH="coverage/python$aa.coverage" NAME="aa Coverage Results" MODIFIED="1562509966660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
     <SUITE FILE_PATH="coverage/python$forloops.coverage" NAME="forloops Coverage Results" MODIFIED="1562508184415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Loops" />
     <SUITE FILE_PATH="coverage/python$lists.coverage" NAME="lists Coverage Results" MODIFIED="1562510485818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists_Ranges_Tuples" />
+    <SUITE FILE_PATH="coverage/python$join.coverage" NAME="join Coverage Results" MODIFIED="1562610745282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/python$listschallenge.coverage" NAME="listschallenge Coverage Results" MODIFIED="1562516748177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists_Ranges_Tuples" />
     <SUITE FILE_PATH="coverage/python$demo.coverage" NAME="demo Coverage Results" MODIFIED="1562608498042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists_Ranges_Tuples" />
   </component>
@@ -39,7 +34,7 @@
     <session id="-1079310851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.opened" value="2" />
@@ -47,23 +42,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="215" />
-          <entry key="txt" value="20" />
+          <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="Python" value="215" />
         </counts>
       </usages-collector>
@@ -121,28 +116,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dictionaries/join.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dictionaries/challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-69" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dictionaries/game.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dictionaries/motorbike.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Loops/while.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Loops/Whilechallenge.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -214,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562610034327" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562611214465" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -241,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuples">
+  <component name="RunManager" selected="Python.join">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -340,28 +337,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Helloworld" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops/aa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Helloworld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -376,6 +351,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists_Ranges_Tuples/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="join" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Helloworld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -468,19 +465,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Python.aa" />
       <item itemvalue="Python.lists" />
       <item itemvalue="Python.listschallenge" />
       <item itemvalue="Python.demo" />
       <item itemvalue="Python.tuples" />
+      <item itemvalue="Python.join" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.join" />
         <item itemvalue="Python.tuples" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.listschallenge" />
         <item itemvalue="Python.lists" />
-        <item itemvalue="Python.aa" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +492,7 @@
       <option name="presentableId" value="Default" />
       <updated>1533344580636</updated>
       <workItem from="1562507260203" duration="3646000" />
-      <workItem from="1562604105629" duration="3164000" />
+      <workItem from="1562604105629" duration="3843000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1562507800960</created>
@@ -518,11 +515,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562524586268</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dictionaries">
+      <created>1562610693291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562610693291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6810000" />
+    <option name="totallyTimeSpent" value="7489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -538,13 +542,13 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2577465" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.2577465" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32911393" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.2577465" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -569,7 +573,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master" />
     <MESSAGE value="checkin Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="checkin Loops" />
+    <MESSAGE value="dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="dictionaries" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -697,6 +702,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dictionaries/join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries/challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dictionaries/game.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
