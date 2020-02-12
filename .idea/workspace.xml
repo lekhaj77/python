@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e20db3-4b97-46bd-8e8b-915e5a4e19d5" name="Default" comment="dictionaries">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/ManuplatingData/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/ManuplatingData/shelveexample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/ShelfTest.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/Updating/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/Updating/recipes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/Updating/shelveexample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input_Output/shelves/shelveexample.py" afterDir="false" />
+    <list default="true" id="66e20db3-4b97-46bd-8e8b-915e5a4e19d5" name="Default" comment="shelves">
+      <change afterPath="$PROJECT_DIR$/Oops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/accounts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/albums.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/song.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,11 +94,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Oops" />
       <recent name="$PROJECT_DIR$/Input_Output/shelves/Updating" />
       <recent name="$PROJECT_DIR$/Input_Output/shelves/ManuplatingData" />
       <recent name="$PROJECT_DIR$/Input_Output/shelves" />
       <recent name="C:\code\python\Input_Output" />
-      <recent name="$PROJECT_DIR$/Dictionaries" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -355,7 +351,8 @@
       <workItem from="1568866132059" duration="822000" />
       <workItem from="1580025633083" duration="366000" />
       <workItem from="1580352629964" duration="1259000" />
-      <workItem from="1580359612869" duration="2236000" />
+      <workItem from="1580359612869" duration="2357000" />
+      <workItem from="1581448389109" duration="1894000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1562507800960</created>
@@ -399,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563505373897</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="shelves">
+      <created>1580793080691</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580793080691</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,11 +423,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="master" />
     <MESSAGE value="checkin Loops" />
     <MESSAGE value="dictionaries" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionaries" />
+    <MESSAGE value="shelves" />
+    <option name="LAST_COMMIT_MESSAGE" value="shelves" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
