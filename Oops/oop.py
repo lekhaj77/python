@@ -1,5 +1,4 @@
 class Kettle(object):
-
     power_source = "electricity"
 
     def __init__(self, make, price):
@@ -11,6 +10,7 @@ class Kettle(object):
         self.on = True
 
 
+"""kenwood is the instance of the class Kettle"""
 kenwood = Kettle("Kenwood", 8.99)
 print(kenwood.make)
 print(kenwood.price)
@@ -43,7 +43,7 @@ kenwood.switch_on()
 print("*" * 80)
 
 kenwood.power = 1.5
-print (kenwood.power)
+print(kenwood.power)
 # print(hamilton.power)
 
 print("Switch to atomic power")

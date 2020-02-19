@@ -1,6 +1,7 @@
 import datetime
 import pytz
 
+
 class Account:
     """ Simple account class with balance """
 

@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e20db3-4b97-46bd-8e8b-915e5a4e19d5" name="Default" comment="shelves">
-      <change afterPath="$PROJECT_DIR$/Oops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/accounts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/albums.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oops/song.py" afterDir="false" />
+    <list default="true" id="66e20db3-4b97-46bd-8e8b-915e5a4e19d5" name="Default" comment="oops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oops/accounts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oops/accounts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oops/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oops/oop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -352,7 +349,8 @@
       <workItem from="1580025633083" duration="366000" />
       <workItem from="1580352629964" duration="1259000" />
       <workItem from="1580359612869" duration="2357000" />
-      <workItem from="1581448389109" duration="1894000" />
+      <workItem from="1581448389109" duration="1929000" />
+      <workItem from="1581997882752" duration="1000000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1562507800960</created>
@@ -403,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580793080691</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="oops">
+      <created>1581484894882</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581484894882</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +434,8 @@
     <MESSAGE value="checkin Loops" />
     <MESSAGE value="dictionaries" />
     <MESSAGE value="shelves" />
-    <option name="LAST_COMMIT_MESSAGE" value="shelves" />
+    <MESSAGE value="oops" />
+    <option name="LAST_COMMIT_MESSAGE" value="oops" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
