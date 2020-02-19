@@ -1,4 +1,5 @@
 class Kettle(object):
+    """ class attribute """
     power_source = "electricity"
 
     def __init__(self, make, price):
@@ -42,11 +43,15 @@ kenwood.switch_on()
 
 print("*" * 80)
 
+""" creating the attributes on the fly, instance variable """
 kenwood.power = 1.5
 print(kenwood.power)
 # print(hamilton.power)
 
 print("Switch to atomic power")
+""" all the instances share the same class attribute, unless it is changed
+    this is similar to static variable in the java programing 
+"""
 Kettle.power_source = "atomic"
 print(Kettle.power_source)
 print("Switch kenwood to gas")
